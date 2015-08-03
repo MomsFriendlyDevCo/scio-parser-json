@@ -1,0 +1,21 @@
+{
+  "name": "scio-parser-json",
+  "version": "1.0.0",
+  "description": "JSON config parser for Scio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MomsFriendlyDevCo/scio-parser-json"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "scio"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "GPLv2",
+  "dependencies": {
+    "async-chainable": "^1.7.14",
+    "human-to-cron": "^0.1.7"
+  }
+}
